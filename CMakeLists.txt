@@ -7,11 +7,12 @@ endif()
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS on)
 
-project(StringCompare C)
+project(Chat C)
 
 add_executable(
-	stringcmp
+	chat
 	src/main.c
+  src/file_interact.c
 )
 
-target_link_libraries(stringcmp PRIVATE m)
+target_link_libraries(chat PRIVATE m)

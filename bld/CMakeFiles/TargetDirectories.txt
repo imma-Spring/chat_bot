@@ -1,0 +1,3 @@
+/home/immaspring/projects/chat_bot/bld/CMakeFiles/chat.dir
+/home/immaspring/projects/chat_bot/bld/CMakeFiles/edit_cache.dir
+/home/immaspring/projects/chat_bot/bld/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/immaspring/projects/chat_bot/bld",
+  "command": "/usr/bin/cc    -o CMakeFiles/chat.dir/src/main.c.o -c /home/immaspring/projects/chat_bot/src/main.c",
+  "file": "/home/immaspring/projects/chat_bot/src/main.c",
+  "output": "CMakeFiles/chat.dir/src/main.c.o"
+},
+{
+  "directory": "/home/immaspring/projects/chat_bot/bld",
+  "command": "/usr/bin/cc    -o CMakeFiles/chat.dir/src/file_interact.c.o -c /home/immaspring/projects/chat_bot/src/file_interact.c",
+  "file": "/home/immaspring/projects/chat_bot/src/file_interact.c",
+  "output": "CMakeFiles/chat.dir/src/file_interact.c.o"
+}
+]

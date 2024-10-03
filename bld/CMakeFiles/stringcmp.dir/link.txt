@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/stringcmp.dir/src/main.c.o CMakeFiles/stringcmp.dir/src/file_interact.c.o -o stringcmp  -lm
